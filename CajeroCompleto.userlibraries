@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<eclipse-userlibraries>
+  <library name="Maven: org.openjfx:javafx-controls:17.0.2">
+    <archive path="C:/Users/luiso/.m2/repository/org/openjfx/javafx-controls/17.0.2/javafx-controls-17.0.2.jar" />
+  </library>
+  <library name="Maven: org.openjfx:javafx-fxml:17.0.2">
+    <archive path="C:/Users/luiso/.m2/repository/org/openjfx/javafx-fxml/17.0.2/javafx-fxml-17.0.2.jar" />
+  </library>
+  <library name="Maven: org.openjfx:javafx-fxml:win:17.0.2">
+    <archive path="C:/Users/luiso/.m2/repository/org/openjfx/javafx-fxml/17.0.2/javafx-fxml-17.0.2-win.jar" />
+  </library>
+  <library name="Maven: org.openjfx:javafx-graphics:win:17.0.2">
+    <archive path="C:/Users/luiso/.m2/repository/org/openjfx/javafx-graphics/17.0.2/javafx-graphics-17.0.2-win.jar" />
+  </library>
+  <library name="Maven: org.openjfx:javafx-graphics:17.0.2">
+    <archive path="C:/Users/luiso/.m2/repository/org/openjfx/javafx-graphics/17.0.2/javafx-graphics-17.0.2.jar" />
+  </library>
+  <library name="Maven: org.openjfx:javafx-base:win:17.0.2">
+    <archive path="C:/Users/luiso/.m2/repository/org/openjfx/javafx-base/17.0.2/javafx-base-17.0.2-win.jar" />
+  </library>
+  <library name="Maven: org.openjfx:javafx-base:17.0.2">
+    <archive path="C:/Users/luiso/.m2/repository/org/openjfx/javafx-base/17.0.2/javafx-base-17.0.2.jar" />
+  </library>
+  <library name="Maven: org.openjfx:javafx-controls:win:17.0.2">
+    <archive path="C:/Users/luiso/.m2/repository/org/openjfx/javafx-controls/17.0.2/javafx-controls-17.0.2-win.jar" />
+  </library>
+  <library name="Maven: org.json:json:20231013">
+    <archive path="C:/Users/luiso/.m2/repository/org/json/json/20231013/json-20231013.jar" />
+  </library>
+  <library name="Maven: org.openjfx:javafx-media:win:17.0.2">
+    <archive path="C:/Users/luiso/.m2/repository/org/openjfx/javafx-media/17.0.2/javafx-media-17.0.2-win.jar" />
+  </library>
+  <library name="Maven: ch.qos.logback:logback-classic:1.2.10">
+    <archive path="C:/Users/luiso/.m2/repository/ch/qos/logback/logback-classic/1.2.10/logback-classic-1.2.10.jar" />
+  </library>
+  <library name="Maven: org.slf4j:slf4j-api:1.7.32">
+    <archive path="C:/Users/luiso/.m2/repository/org/slf4j/slf4j-api/1.7.32/slf4j-api-1.7.32.jar" />
+  </library>
+  <library name="Maven: org.junit.jupiter:junit-jupiter-api:5.8.2">
+    <archive path="C:/Users/luiso/.m2/repository/org/junit/jupiter/junit-jupiter-api/5.8.2/junit-jupiter-api-5.8.2.jar" />
+  </library>
+  <library name="Maven: ch.qos.logback:logback-core:1.2.10">
+    <archive path="C:/Users/luiso/.m2/repository/ch/qos/logback/logback-core/1.2.10/logback-core-1.2.10.jar" />
+  </library>
+  <library name="Maven: org.junit.platform:junit-platform-commons:1.8.2">
+    <archive path="C:/Users/luiso/.m2/repository/org/junit/platform/junit-platform-commons/1.8.2/junit-platform-commons-1.8.2.jar" />
+  </library>
+  <library name="Maven: org.opentest4j:opentest4j:1.2.0">
+    <archive path="C:/Users/luiso/.m2/repository/org/opentest4j/opentest4j/1.2.0/opentest4j-1.2.0.jar" />
+  </library>
+  <library name="Maven: org.apiguardian:apiguardian-api:1.1.2">
+    <archive path="C:/Users/luiso/.m2/repository/org/apiguardian/apiguardian-api/1.1.2/apiguardian-api-1.1.2.jar" />
+  </library>
+  <library name="Maven: org.openjfx:javafx-web:17.0.2">
+    <archive path="C:/Users/luiso/.m2/repository/org/openjfx/javafx-web/17.0.2/javafx-web-17.0.2.jar" />
+  </library>
+  <library name="Maven: org.openjfx:javafx-media:17.0.2">
+    <archive path="C:/Users/luiso/.m2/repository/org/openjfx/javafx-media/17.0.2/javafx-media-17.0.2.jar" />
+  </library>
+  <library name="Maven: org.openjfx:javafx-web:win:17.0.2">
+    <archive path="C:/Users/luiso/.m2/repository/org/openjfx/javafx-web/17.0.2/javafx-web-17.0.2-win.jar" />
+  </library>
+</eclipse-userlibraries>
+
